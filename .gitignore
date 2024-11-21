@@ -1,0 +1,17 @@
+# Ignore IDE files
+.idea/
+.vscode/
+
+# Ignore build directories
+target/
+build/
+
+# Ignore Maven files
+*.log
+*.class
+.mvn/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
